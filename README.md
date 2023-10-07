@@ -1,2 +1,3 @@
 # Cursos
-Esse repositório vai conter todos os projetos com escopo fechado realizado em cursos.
+
+O objetivo desse repositório e concentrar todos os projetos de escopo fechado realizado em treinamentos na internet.
